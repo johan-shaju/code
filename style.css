@@ -1,0 +1,26 @@
+h2{
+    color:rgb(11, 125, 224);
+    border: 2px solid rgb(163, 172, 133);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.gei{
+    font-family:Arial, Helvetica, sans-serif;
+    color: cornflowerblue;
+}
+.form{
+    border: 1px dashed rgb(95, 50, 112);
+    background-color: rgb(255, 236, 195);
+    margin: 1% 4%;
+    padding:5% ;
+    text-align: center;
+    background-image: url("https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif");
+    background-size:cover;
+   
+}
+.c{border: 5px dashed rgb(161, 161, 247);
+    background-color: rgb(248, 234, 187);
+    background-image: url("https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif");
+    
+    
+}
